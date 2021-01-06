@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89731512140",
+    "project_id": "linuxapicmd",
+    "storage_bucket": "linuxapicmd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89731512140:android:1ea643d83d10b03b39c1e9",
+        "android_client_info": {
+          "package_name": "com.premchand.LinuxApicmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89731512140-lde4c1mfe6dt6ufco7lbkg1bnrj7ptpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHGREEP6wu1XSVQ9qcxh-0Y01wMUpvxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89731512140-lde4c1mfe6dt6ufco7lbkg1bnrj7ptpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
